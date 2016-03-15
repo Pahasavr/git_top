@@ -1,4 +1,4 @@
-print("Helo world")
-print("Kak dela??")
-print("Hello a ne Helo fd")
-новый код
+print("Helo world;")
+print("Kak dela??;")
+print("Hello a ne Helo fd;")
+новый код;
